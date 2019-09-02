@@ -10,7 +10,7 @@ module.exports = {
       { rel: "alternate", type: "application/rss+xml", href: "/rss.xml", title: "每日时报" },
     ],
   ],
-  ga: "UA-131469836-1",
+  ga: "UA-146136469-1",
   plugins: [
     ["@vuepress/google-analytics"],
     [
@@ -38,10 +38,10 @@ module.exports = {
     repo: "wubaiqing/zaobao",
     lastUpdated: "Last Updated",
     docsDir: "docs",
-    algolia: {
-      apiKey: "d9708b4d74ba98295f2a87341fae3f0c",
-      indexName: "zaobao",
-    },
+    // algolia: {
+    //   apiKey: "3fea8456dd38b9823800eff6781ad505",
+    //   indexName: "evernote",
+    // },
     nav: [{ text: "留言", link: "/other/talk" }],
     sidebar: [
       ["/", "1. 介绍"],
