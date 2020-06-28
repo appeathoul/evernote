@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[每日时报]]></title><description><![CDATA[每日时报，会以前端技术体系为主要分享课题。内容会以：文章、工具、新闻、视频几大板块作为主要分类。]]></description><link>https:/appeathoul.github.io/evernote</link><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Jun 2020 09:04:44 GMT</lastBuildDate><atom:link href="https:/appeathoul.github.io/evernote/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[2020每日时报]]></copyright><language><![CDATA[zh-CN]]></language><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[学习] <code>scikit-learn</code> 是基于 Python 语言的机器学习工具 <a href="https://sklearn.apachecn.org/">https://sklearn.apachecn.org/</a></p>
+<p>[资源] <code>GitHubDaily</code> 将于每日不定时推送一批 GitHub 上优秀的开源项目给开发者, 帮助开发者们发现当下最火的开源项目, 令开发者们得以掌控技术脉搏, 扩大自己的技术视野, 并从开源项目的学习中获得技术能力的提升。<a href="https://github.com/GitHubDaily/GitHubDaily">https://github.com/GitHubDaily/GitHubDaily</a></p>
+<p>[资源] 中文版的深度学习学习手册,<code>100-Days-Of-ML-Code</code>中文版。<a href="https://github.com/MLEveryday/100-Days-Of-ML-Code">https://github.com/MLEveryday/100-Days-Of-ML-Code</a></p>
+<p>[新闻] Google QUIC正式更名 HTTP/3 协议 <a href="https://cloud.tencent.com/developer/news/355488">https://cloud.tencent.com/developer/news/355488</a>
+<a href="https://app.yinxiang.com/fx/d0645af0-6a96-4d00-a460-7bc1ff860bf1" title="QUIC">印象链接</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/18.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/18.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[资讯] 巨头争战在线教育<a href="https://www.huxiu.com/article/297431.html">https://www.huxiu.com/article/297431.html</a>
+<a href="https://app.yinxiang.com/fx/35bd867b-0f9d-4e16-89f1-dd9c94b8a117" title="在线教育">印象笔记</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/23.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/23.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[No title]]></title><link>https:/appeathoul.github.io/evernote/2019/08/28.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/28.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[咨询] Python 正在吞噬世界 <a href="https://www.infoq.cn/article/Vf9TLJW608LTTPGWUdgU">https://www.infoq.cn/article/Vf9TLJW608LTTPGWUdgU</a></p>
+<p>[资源] Python入门怎么入，学习 <strong><code>Pandas</code></strong> Pandas是一个强大的分析结构化数据的工具集；它的使用基础是Numpy（提供高性能的矩阵运算）；用于数据挖掘和数据分析，同时也提供数据清洗功能。<a href="https://www.pypandas.cn/">https://www.pypandas.cn/</a></p>
+<p>[资源] <code>ReID</code>，行人重识别最好的入门资源 <a href="https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial">https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/27.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/27.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[文章] 6种<code>微服务</code>框架你知道几个？<a href="https://app.yinxiang.com/fx/2bc04338-42ff-4f2c-9713-a37c3dba23b0" title="rpc">印象链接</a></p>
+<p>[文章] 为什么<code>Flutter</code>还不是最成熟的跨端框架？<a href="https://www.infoq.cn/article/Sb-dtYs6UfliH2ufZkwE">https://www.infoq.cn/article/Sb-dtYs6UfliH2ufZkwE</a><a href="https://app.yinxiang.com/fx/e54419b4-9075-425e-be4a-50e987146780">印象笔记</a></p>
+<p>[类库] <code>Vue3.0 Function API</code><a href="https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md#comparison-with-react-hooks">https://github.com/vuejs/rfcs/blob/function-apis/active-rfcs/0000-function-api.md#comparison-with-react-hooks</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/20.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/20.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[软件] <code>xiaopiu</code>-产品原型设计工具与团队实时协作平台
+<a href="https://www.xiaopiu.com/">https://www.xiaopiu.com/</a></p>
+<p>[教程] <code>SVM</code>教程：支持向量机的直观理解<a href="https://baijiahao.baidu.com/s?id=1607469282626953830&amp;wfr=spider&amp;for=pc">https://baijiahao.baidu.com/s?id=1607469282626953830&amp;wfr=spider&amp;for=pc</a><a href="https://app.yinxiang.com/fx/3655b210-f4ac-4bfd-98ef-1542646f723a" title="在线教育">印象笔记</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/26.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/26.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[资源] Git飞行规则(Flight Rules) <a href="https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md">https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md</a></p>
+<p>[教程] coursera 机器学习教程 <a href="https://www.coursera.org/learn/machine-learning/home/welcome">https://www.coursera.org/learn/machine-learning/home/welcome</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/29.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/29.html</guid><pubDate>Mon, 02 Sep 2019 02:39:42 GMT</pubDate></item><item><title><![CDATA[2019.08.02]]></title><description><![CDATA[<h3>2019.08.02</h3>
+<p>[文章] 刘润对谈吴军：给腾讯和所有上进企业的 4 点建议：<a href="https://mp.weixin.qq.com/s/oVpyoWDZC7D8S01WtU043A">https://mp.weixin.qq.com/s/oVpyoWDZC7D8S01WtU043A</a></p>
+<p>[文章] 领域驱动设计在前端中的应用：<a href="https://github.com/Vincedream/ddd-fe-demo">https://github.com/Vincedream/ddd-fe-demo</a></p>
+<p>[类库] 生成 CPU-Profile 面板文件：<a href="https://github.com/jantimon/cpuprofile-webpack-plugin">https://github.com/jantimon/cpuprofile-webpack-plugin</a></p>
+<p>[资源] NodeJS 版本的 Git API 封装，适用于 Electron 等环境：<a href="https://github.com/steveukx/git-js">https://github.com/steveukx/git-js</a></p>
+<h3>配图 - Pont</h3>
+<p><img src="https://camo.githubusercontent.com/a7e0ae2522af62877112ef819f6ead28bfe4bb3f/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f54423135705a47493654704b31526a535a4b5058586133557058612d313538342d313039302e706e67" alt=""></p>
+<h3>配图 - react-diagrams</h3>
+<p><img src="http://qn.40zhe.com/example1.jpg" alt="">
+<img src="http://qn.40zhe.com/example2.jpg" alt="">
+<img src="http://qn.40zhe.com/example3.jpg" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/02.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/02.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.02]]></title><description><![CDATA[<h3>2019.08.02</h3>
+<p>[文章] 我那 “低效” 的个人知识管理；一点都不低效啊：<a href="https://zhuanlan.zhihu.com/p/75966880">https://zhuanlan.zhihu.com/p/75966880</a></p>
+<p>[文章] 在 VSCode 中，使用 SSH 远程连接服务端改写代码。什么断点测试仅仅可以作为一个亮点存在；所有平台一致性、多端支持、容器化的内置，才是它最好的使用场景：<a href="https://code.visualstudio.com/blogs/2019/07/25/remote-ssh">https://code.visualstudio.com/blogs/2019/07/25/remote-ssh</a></p>
+<p>[工具] 基于 GitHub 的在线 IDE 工具，一共了浏览器插件，通过点击 Gitpod 直接就弄打开项目的源文件，<a href="https://gitpod.io/#https://github.com/wubaiqing/zaobao">演示效果</a>：<a href="https://www.gitpod.io/">https://www.gitpod.io/</a></p>
+<p>[资源] 【首先说明，我们只讨论技术，别的咱不看】h-player-v2 是基于 Quasar Framework 开发应用程序，通过 electron 包装，实现 hls 视频流的在线播放：<a href="https://github.com/ZyqGitHub1/h-player-v2">https://github.com/ZyqGitHub1/h-player-v2</a></p>
+<h3>配图 - 我那 “低效” 的个人知识管理</h3>
+<p><img src="https://pic2.zhimg.com/80/v2-9dc9a4c7d8b9f10046db1f64ad098a7d_hd.jpg" alt=""></p>
+<h3>配图 - 在 VSCode 中，使用 SSH 远程连接服务端改写代码</h3>
+<p><img src="https://code.visualstudio.com/assets/blogs/2019/07/25/remote-commands.png" alt="">
+<img src="https://code.visualstudio.com/assets/blogs/2019/07/25/python-intellisense.png" alt=""></p>
+<h3>配图 - 在 VSCode 中，使用 SSH 远程连接服务端改写代码</h3>
+<p><img src="https://www.gitpod.io/static/75c5a386c6a89bcd66497661ea486ba7/12eea/gitpod-prefix.png" alt=""></p>
+<h3>今日图 - 腾讯的弹幕，可以绕过人脸</h3>
+<p><img src="http://qn.40zhe.com/16c57efddaa3a01d" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/05.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/05.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.06]]></title><description><![CDATA[<h3>2019.08.06</h3>
+<p>[工具] Chrome 必装的插件，划词翻译功能是我目前用过的最舒服的：<a href="https://github.com/crimx/ext-saladict">https://github.com/crimx/ext-saladict</a></p>
+<p>[工具] 将链接转换为二维码的工具：<a href="https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp">https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp</a></p>
+<p>[类库] dotenv-flow 可以加载 <code>.env*</code> 的文件，并且把文件的内容，存放到环境变量中：<a href="https://github.com/kerimdzhanov/dotenv-flow">https://github.com/kerimdzhanov/dotenv-flow</a></p>
+<p>[类库] 把 React 代码放到该组件中，就能实时看到代码中的效果。可以用于制作表单生成器使用，<a href="https://uiwjs.github.io/react-code-preview/">演示效果</a>：<a href="https://github.com/uiwjs/react-code-preview">https://github.com/uiwjs/react-code-preview</a></p>
+<p>[类库] FileAPI 是文件操作 API，比如批量下载所有文件、生成图片缩略图、旋转图片：<a href="https://github.com/mailru/FileAPI">https://github.com/mailru/FileAPI</a></p>
+<h3>示例 - dotenv-flow</h3>
+<pre><code class="language-bash"># .env.production.local
+
+DATABASE_HOST=10.0.0.32
+DATABASE_PORT=27017
+DATABASE_USER=devops
+DATABASE_PASS=1qa2ws3ed4rf5tg6yh
+DATABASE_NAME=application_storage
+</code></pre>
+<pre><code class="language-js">require('dotenv-flow').config();
+
+console.log('database host:', process.env.DATABASE_HOST);
+console.log('database port:', process.env.DATABASE_PORT);
+console.log('database user:', process.env.DATABASE_USER);
+console.log('database pass:', process.env.DATABASE_PASS);
+console.log('database name:', process.env.DATABASE_NAME);
+</code></pre>
+<h3>示例 - FileAPI</h3>
+<pre><code class="language-js">// Get info of image file (FileAPI.exif.js included)
+FileAPI.getInfo(file, function (err/**String*/, info/**Object*/){
+	if( !err ){
+		console.log(info); // { width: 800, height: 600, exif: {..} }
+	}
+});
+</code></pre>
+<h3>今日图 - 过于真实</h3>
+<p><img src="http://qn.40zhe.com/16c609024d0cadbf" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/06.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/06.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.07 - 今天是每日时报陪你的第 222 天]]></title><description><![CDATA[<h3>2019.08.07 - 今天是每日时报陪你的第 222 天</h3>
+<p>[资源] 今日热榜，是获取各大热门网站热门头条的聚合网站；使用 Go 语言编写，多协程异步快速抓取信息，<a href="https://www.printf520.com/hot.html">演示效果</a>：<a href="https://github.com/timeromantic/TopList">https://github.com/timeromantic/TopList</a></p>
+<p>[类库] 基于 element-ui 的数据驱动表单组件，可以拖拖拽拽就能生成一个表单：<a href="https://github.com/dream2023/vue-ele-form">https://github.com/dream2023/vue-ele-form</a></p>
+<p>[工具] Fun 是一个用于支持 Serverless 应用部署的工具，能帮助您便捷地管理函数计算、API 网关、日志服务等资源。它通过一个资源配置文件（template.yml），进行开发、构建、部署操作：<a href="https://github.com/alibaba/funcraft">https://github.com/alibaba/funcraft</a></p>
+<p>[工具] lighthouse 是由谷歌团队开发的 “网站性能测评” 的 Chrome 扩展：<a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk</a></p>
+<h3>配图 - 今日热榜</h3>
+<p><img src="https://camo.githubusercontent.com/d429cde26e5ddc9dcd1a44af0223e400aacfec77/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30382f30352f506a58326e715741674d3578734c342e706e67" alt=""></p>
+<h3>配图 - 可视化生成表单</h3>
+<p><img src="https://raw.githubusercontent.com/dream2023/images/master/vue-ele-form-generator.4j3mllhqkds.gif" alt=""></p>
+<h3>配图 - Fun</h3>
+<p><img src="https://yqfile.alicdn.com/9eabfd42e0cdc614115c93a2da531a253c8fe0ad.gif" alt=""></p>
+<h3>今日图 - 今天的别人，今天的你</h3>
+<p><img src="http://qn.40zhe.com/WechatIMG840.png" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/07.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/07.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.09 - 今天是每日时报陪你的第 224 天]]></title><description><![CDATA[<h3>2019.08.09 - 今天是每日时报陪你的第 224 天</h3>
+<p>[新闻] GitHub 终于推出自己的持续集成服务了，公开库免费：<a href="https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/">https://github.blog/2019-08-08-github-actions-now-supports-ci-cd/</a></p>
+<p>[新闻] 华为手机为什么快？方舟编译器首创多语言混合编译，内存回收高效，同时发布 deveco 开发工具，卡顿分析和丢帧分析，把华为多年积累核心技术，全部要开源开放：<a href="https://weibo.com/1355610915/I1qSj9WMx">https://weibo.com/1355610915/I1qSj9WMx</a></p>
+<p>[文章] GraphQL 入门教程，讲的非常基础适合新手学习：<a href="https://github.com/pingan8787/Leo-JavaScript/blob/master/Cute-GraphQL/README.md">https://github.com/pingan8787/Leo-JavaScript/blob/master/Cute-GraphQL/README.md</a></p>
+<p>[视频] 李治中博士主题演讲《癌症的真相》：<a href="https://weibo.com/tv/v/I1rqXm7vb?fid=1034:4403394165866284">https://weibo.com/tv/v/I1rqXm7vb?fid=1034:4403394165866284</a></p>
+<p>[工具] 又一个可视化表单设计，生成代码自己到编辑器编辑，只依赖 ElementUI 可以通过 JSON 快速生成，支持嵌套的对象：<a href="https://github.com/Liugq5713/vue-element-nocode-admin">https://github.com/Liugq5713/vue-element-nocode-admin</a></p>
+<p>[工具] TreeJS 在线编辑器：<a href="https://threejs.org/editor/">https://threejs.org/editor/</a></p>
+<h3>配图 - GitHub 终于推出自己的持续集成服务了</h3>
+<p><img src="https://github.blog/wp-content/uploads/2019/08/DL-V2-LinkedIn_FB.png?w=1200" alt=""></p>
+<h3>配图 - 方舟编译器首创多语言混合编译</h3>
+<p><img src="https://wx2.sinaimg.cn/mw690/50ccfb23gy1g5tihol2a5j21400u0adr.jpg" alt=""></p>
+<h3>配图 - GraphQL 入门教程</h3>
+<p><img src="https://camo.githubusercontent.com/814821bb94273380bf96fa4c617d745399ff0809/687474703a2f2f696d616765732e70696e67616e383738372e636f6d2f6772617068716c5f332e706e67" alt=""></p>
+<h3>今日图 - 与时俱进的桌面</h3>
+<p><img src="http://qn.40zhe.com/16bb1fddf141b63a" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/09.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/09.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.08 - 今天是每日时报陪你的第 223 天]]></title><description><![CDATA[<h3>2019.08.08 - 今天是每日时报陪你的第 223 天</h3>
+<p>[文章] 一键脚本搭建 SS/SSR、V2ray、Brook、WireGuard 服务器最新教程：<a href="https://github.com/xiaobei2008/Shadowsocks/wiki">https://github.com/xiaobei2008/Shadowsocks/wiki</a></p>
+<p>[类库] React 各种 onClick 写完后，发现 iPad 不支持，又不想写 onTouchStart；还好，看到了好东西：<a href="https://github.com/JakeSidSmith/react-fastclick">https://github.com/JakeSidSmith/react-fastclick</a></p>
+<p>[工具] RegExr 是一个学习、分享、测试正则表达式的平台。对每一个正则表达式，还可以写出逻辑解释，并可以查找别人写的正则表达式来借鉴和使用：<a href="https://regexr.com">https://regexr.com</a></p>
+<p>[工具] 生成自定义 Code Snippets 的网站，多行的形式，生成后可读性良好。生成来个人用，项目用或者写插件各种方便：<a href="https://snippet-generator.app">https://snippet-generator.app</a></p>
+<h3>配图 - RegExr</h3>
+<p><img src="http://qn.40zhe.com/fehelper-regexr-com-1565253885874.png" alt=""></p>
+<h3>配图 - 生成自定义 Code Snippets</h3>
+<p><img src="http://qn.40zhe.com/fehelper-snippet-generator-app-1565253753341.png" alt=""></p>
+<h3>今日图 - 每当我躺好了，手机信号就不好了</h3>
+<p><img src="http://qn.40zhe.com/16c60ad95f34adcd" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/08.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/08.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.14 - 今天是每日时报陪你的第 226 天]]></title><description><![CDATA[<h3>2019.08.14 - 今天是每日时报陪你的第 226 天</h3>
+<p>[文章] 李笑来又出书了，生产效率是真的高啊。《定投改变命运 —— 让时间陪你慢慢变富》：<a href="https://github.com/xiaolai/regular-investing-in-box">https://github.com/xiaolai/regular-investing-in-box</a></p>
+<p>[文章] 十年磨一剑《淘宝如何打造承载亿级流量的首页》：<a href="https://segmentfault.com/a/1190000020060441">https://segmentfault.com/a/1190000020060441</a></p>
+<p>[文章] 学习 Kubernetes，主要解决市面上关于 Kubernetes 的资源良莠不齐，存在几个问题：<a href="https://github.com/caicloud/kube-ladder">https://github.com/caicloud/kube-ladder</a></p>
+<blockquote>
+<p>官方文档缺少明确的&quot;梯度&quot;，信息错综复杂<br>
+资料较为分散，查找信息费时费力<br>
+Kubernetes 发展很快，书籍或者网上教程容易过时</p>
+</blockquote>
+<p>[类库] Vue 下拉框的解决方案，效果非常的赞，<a href="https://vue-multiselect.js.org/#sub-single-select">演示效果</a>：<a href="https://github.com/shentao/vue-multiselect">https://github.com/shentao/vue-multiselect</a></p>
+<p>[视频] Flutter 的最新进展和对未来的展望，讲的很好啊，演讲者的思路很清晰：<a href="https://segmentfault.com/ls/1650000020068802/l/1500000020068867">https://segmentfault.com/ls/1650000020068802/l/1500000020068867</a></p>
+<p>[工具] 使用 firehol 的 <code>update-ipsets.sh</code> 脚本动态更新 ipsets：<a href="https://github.com/firehol/blocklist-ipsets">https://github.com/firehol/blocklist-ipsets</a></p>
+<h3>配图 - 十年磨一剑《淘宝如何打造承载亿级流量的首页》</h3>
+<p><img src="https://image-static.segmentfault.com/181/581/1815813773-5d5229c49a709_articlex" alt=""></p>
+<h3>配图 - Vue 下拉框的解决方案，效果非常的赞</h3>
+<p><img src="https://raw.githubusercontent.com/shentao/vue-multiselect/2.0/multiselect-screen-203.png" alt=""></p>
+<h3>今日图 - 前女友发现我游戏角色是她的名字</h3>
+<p><img src="https://i1.hoopchina.com.cn/hupuapp/bbs/323/4738323/thread_4738323_20190814131639_s_138382_o_w_777_h_1662_97354.png?x-oss-process=image/resize,w_800/format,webp" alt="">
+<img src="https://i3.hoopchina.com.cn/hupuapp/bbs/323/4738323/thread_4738323_20190814131639_s_46421_o_w_759_h_686_28889.png?x-oss-process=image/resize,w_800/format,webp" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/14.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/14.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.13 - 今天是每日时报陪你的第 225 天]]></title><description><![CDATA[<h3>2019.08.13 - 今天是每日时报陪你的第 225 天</h3>
+<p>[文章] Debugger for Chrome 调试故障指南：<a href="https://github.com/Microsoft/vscode-chrome-debug/blob/master/README.md#troubleshooting">https://github.com/Microsoft/vscode-chrome-debug/blob/master/README.md#troubleshooting</a></p>
+<p>[类库] immersive-custom-elements 这个库有点像是汽车之家 VR 看车的功能：<a href="https://github.com/MozillaReality/immersive-custom-elements">https://github.com/MozillaReality/immersive-custom-elements</a></p>
+<p>[类库] log-symbols 是命令行日志符号库：<a href="https://github.com/sindresorhus/log-symbols">https://github.com/sindresorhus/log-symbols</a></p>
+<p>[工具] 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板：<a href="https://github.com/Caldis/Mos">https://github.com/Caldis/Mos</a></p>
+<p>[资源] 中华人民共和国行政区数据：<a href="https://github.com/shaipe/china-areas">https://github.com/shaipe/china-areas</a></p>
+<h3>今日图 - Debugger for Chrome 调试故障指南</h3>
+<p><img src="https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/demo.gif?raw=truek" alt=""></p>
+<h3>配图 - immersive-custom-elements</h3>
+<p><img src="https://raw.githubusercontent.com/MozillaReality/immersive-custom-elements/master/screenshots/img-360.gif" alt=""></p>
+<h3>配图 - log-symbols</h3>
+<p><img src="https://raw.githubusercontent.com/sindresorhus/log-symbols/master/screenshot.png" alt=""></p>
+<h3>配图 - Mos</h3>
+<p><img src="https://raw.githubusercontent.com/Caldis/Mos/master/docs/resources/image/cn/PreferencesExceptionFull.png" alt=""></p>
+<h3>今日图 - 从下往上看</h3>
+<p><img src="http://qn.40zhe.com/16c887267683c425" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/13.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/13.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[2019.08.15 - 今天是每日时报陪你的第 227 天]]></title><description><![CDATA[<h3>2019.08.15 - 今天是每日时报陪你的第 227 天</h3>
+<p>[新闻] React 发布 16.9 版本，新增了 <code>React.Profiler</code> API，重命名不安全的生命周期方法，并且提供 <code>codemod</code> 工具帮助你快速的转换：<a href="https://reactjs.org/blog/2019/08/08/react-v16.9.0.html">https://reactjs.org/blog/2019/08/08/react-v16.9.0.html</a></p>
+<p>[文章] 你知道 Content-Disposition 头吗，可以解决 CDN 直接下载文件的问题：<a href="https://juejin.im/post/5d521575f265da03ee6a4bda">https://juejin.im/post/5d521575f265da03ee6a4bda</a></p>
+<p>[类库] pretty-error 以一种漂亮的方式，展示 NodeJS 异常信息的类库：<a href="https://github.com/AriaMinaei/pretty-error">https://github.com/AriaMinaei/pretty-error</a></p>
+<p>[资源] 今日热榜，支持全平台： PC、移动 Web、Chrome 插件、PWA（Android、iOS）和桌面程序（Win、Linux、MacOS）。随时随地，愉快摸鱼：<a href="https://github.com/ttop5/to-be-slack">https://github.com/ttop5/to-be-slack</a></p>
+<p>[资源] 本地离线预览 React Native 文档的方法，解决因官网 CDN 资源导致无法打开官方文档网站：<a href="https://github.com/jaywcjlove/react-native-doc">https://github.com/jaywcjlove/react-native-doc</a></p>
+<h3>配图 - 今日热榜</h3>
+<p><img src="https://user-images.githubusercontent.com/9512362/62820723-c8384780-bb9a-11e9-96d8-0b815d18739e.png" alt="">
+<img src="https://user-images.githubusercontent.com/9512362/62820724-c8d0de00-bb9a-11e9-8893-11d3e607b30f.png" alt=""></p>
+<h3>配图 - pretty-error</h3>
+<p>使用之前
+<img src="https://raw.githubusercontent.com/AriaMinaei/pretty-error/master/docs/images/normal-error-screenshot.png" alt="">
+使用之后
+<img src="https://raw.githubusercontent.com/AriaMinaei/pretty-error/master/docs/images/pretty-error-screenshot.png" alt=""></p>
+<h3>今日图 - 你见过什么特殊的胎记</h3>
+<p><img src="https://pic3.zhimg.com/80/v2-7929c3ab66f966c445fbebbc0949c829_hd.jpg" alt="">
+<img src="https://pic4.zhimg.com/80/v2-6f97447e1804a950c3d6ca9866de7134_hd.jpg" alt=""></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/08/15.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/08/15.html</guid><pubDate>Thu, 15 Aug 2019 06:00:14 GMT</pubDate></item><item><title><![CDATA[No title]]></title><link>https:/appeathoul.github.io/evernote/2019/09/04.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/09/04.html</guid><pubDate>Invalid Date</pubDate></item><item><title><![CDATA[No title]]></title><link>https:/appeathoul.github.io/evernote/2019/09/03.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/09/03.html</guid><pubDate>Invalid Date</pubDate></item><item><title><![CDATA[No title]]></title><link>https:/appeathoul.github.io/evernote/2019/09/05.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/09/05.html</guid><pubDate>Invalid Date</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[学习] TensorFlow官方学习教程 <a href="https://tensorflow.google.cn/install/gpu">https://tensorflow.google.cn/install/gpu</a></p>
+<p>[学习] 微软Python官方视频教程 <a href="https://space.bilibili.com/417094894/video?tid=0&amp;page=2&amp;keyword=&amp;order=pubdate">https://space.bilibili.com/417094894/video?tid=0&amp;page=2&amp;keyword=&amp;order=pubdate</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/09/24.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/09/24.html</guid><pubDate>Invalid Date</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[资讯] <code>SLAM+AR</code> 技术与应用的一些思考 <a href="https://yq.aliyun.com/articles/227624?utm_content=m_33663">https://yq.aliyun.com/articles/227624?utm_content=m_33663</a>
+<a href="https://app.yinxiang.com/fx/31bbfe68-f116-44ee-afa2-339e5e31fb49" title="SLAM">印象链接</a></p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/09/10.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/09/10.html</guid><pubDate>Invalid Date</pubDate></item><item><title><![CDATA[No title]]></title><description><![CDATA[<p>[学习] 打开很多网站或 App，都要求你付费：听歌要钱，视频要钱，下载要钱，读一篇文章也要钱。这当然无可厚非，但是我总觉得，纯粹的信息收费不是一个好的商业模式，除非有增值服务。</p>
+]]></description><link>https:/appeathoul.github.io/evernote/2019/09/27.html</link><guid isPermaLink="true">https:/appeathoul.github.io/evernote/2019/09/27.html</guid><pubDate>Invalid Date</pubDate></item></channel></rss>
